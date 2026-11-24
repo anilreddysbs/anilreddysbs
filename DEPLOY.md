@@ -22,7 +22,7 @@ The Vercel project is already deployed. The steps below are for importing the re
 
 ## Automatic updates after deployment
 
-The repository is connected to Vercel through Git integration. Commits pushed to the configured production branch (currently `main`) can trigger new deployments automatically. You can also preview changes before promoting them to production.
+If you imported this GitHub repository into Vercel, check **Project Settings → Git** to confirm the repository is connected and that `main` is the Production Branch. When Git integration is connected, new commits to that branch trigger production deployments automatically. If you deployed by uploading files manually, connect the Git repository from Project Settings → Git before expecting future pushes to deploy automatically.
 
 ## Files used
 
