@@ -79,7 +79,7 @@ Built a local Model Context Protocol server that lets VS Code and its AI assista
 ## Connect
 
 - **Portfolio:** [anilreddysbs.vercel.app](https://anilreddysbs.vercel.app)
-- **Email:** [anil.reddy.sbs@gmail.com](mailto:anil.reddy.sbs@gmail.com)
+- **Email:** [anilreddysbs@gmail.com](mailto:anilreddysbs@gmail.com)
 - **LinkedIn:** [linkedin.com/in/anil-reddy-sabbella9](https://www.linkedin.com/in/anil-reddy-sabbella9/)
 - **GitHub:** [github.com/anilreddysbs](https://github.com/anilreddysbs)
 
