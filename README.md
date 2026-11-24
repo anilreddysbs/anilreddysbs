@@ -8,7 +8,7 @@ Backend engineer with 3+ years of experience in Python, Django, Flask and SQL, n
 - 🧠 **Focus:** LLM integrations, RAG pipelines, hybrid retrieval, MCP and backend engineering
 - 🛠️ **Internal tooling:** Built a Flask SQL Validator and packaged it as a reusable AI skill shared with colleagues
 - 📍 **Location:** Hyderabad, India
-- 🌐 **Portfolio:** [View source](index.html) · [Deploy it on Vercel](DEPLOY.md)
+- 🌐 **Live portfolio:** [anilreddysbs.vercel.app](https://anilreddysbs.vercel.app) · [Source](index.html) · [Deployment guide](DEPLOY.md)
 - 💬 **LinkedIn:** [anil-reddy-sabbella9](https://www.linkedin.com/in/anil-reddy-sabbella9/)
 
 ## Featured engineering projects
@@ -78,6 +78,7 @@ Built a local Model Context Protocol server that lets VS Code and its AI assista
 
 ## Connect
 
+- **Portfolio:** [anilreddysbs.vercel.app](https://anilreddysbs.vercel.app)
 - **Email:** [anil.reddy.sbs@gmail.com](mailto:anil.reddy.sbs@gmail.com)
 - **LinkedIn:** [linkedin.com/in/anil-reddy-sabbella9](https://www.linkedin.com/in/anil-reddy-sabbella9/)
 - **GitHub:** [github.com/anilreddysbs](https://github.com/anilreddysbs)
