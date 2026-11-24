@@ -1,6 +1,8 @@
 # Deploy this portfolio to Vercel
 
-This repository contains a self-contained static portfolio website. The site entry point is `index.html` in the repository root. It uses plain HTML and CSS: no Node.js app, package installation, build command, API keys or environment variables are required.
+The portfolio is live at **https://anilreddysbs.vercel.app**. The deployed site is a self-contained static website whose entry point is `index.html` in the repository root. It uses plain HTML and CSS: no Node.js app, package installation, build command, API keys or environment variables are required.
+
+The Vercel project is already deployed. The steps below are for importing the repository again or setting up a fresh Vercel project.
 
 ## Deploy with the Vercel dashboard
 
